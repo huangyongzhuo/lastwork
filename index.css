@@ -14,20 +14,12 @@ a:hover{
 	color: black;
 }
 body{
-	/*background-image: url(image/h2img.jpg);*/
-	/*background-image: linear-gradient(to right, #ff9569 0%, #e92758 100%);*/
 	background-image: linear-gradient(to bottom, pink 0%, red 100%);
 
 }
 
 #app{
-	/*background-image: url("./1.jpg");
-	background-repeat: no-repeat;*/
 	width: 100%
-	
-	/*background-color:red; */
-	/*background-image: url(image/h1img.jpg);*/
-	/*overflow: hidden;*/
 }
 
 .head{
@@ -90,6 +82,7 @@ body{
 	height: 25px;
 	position: absolute;
 	top: 11px;
+	border-radius:50%;
 }
 
 
